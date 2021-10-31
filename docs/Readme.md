@@ -96,7 +96,7 @@ The analysis for [World articles is available here](https://ckatony.github.io/ST
 
 ### Code used to create the analyses.
 
-```{r, eval = FALSE}
+```{r, eval = FALSE}  
 channels <- unique(X$channel)
 output_file <- paste0(channels,".md")
 
