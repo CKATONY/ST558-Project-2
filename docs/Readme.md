@@ -104,12 +104,12 @@ library(doParallel)
 
 ### Links to the generated analyses.  
 
-The analysis for [Lifestyle articles is available here](data_channel_is_lifestyle.html).  
-The analysis for [Entertainment articles is available here](data_channel_is_entertainment.html).  
-The analysis for [Bus articles is available here](data_channel_is_bus.html).  
-The analysis for [Socmed articles is available here](data_channel_is_socmed.html).  
-The analysis for [Tech articles is available here](data_channel_is_tech.html).  
-The analysis for [World articles is available here](data_channel_is_world.html).  
+The analysis for [Lifestyle articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_lifestyle.html).  
+The analysis for [Entertainment articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_entertainment.html).  
+The analysis for [Bus articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_bus.html).  
+The analysis for [Socmed articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_socmed.html).  
+The analysis for [Tech articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_tech.html).  
+The analysis for [World articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_world.html).  
 
 ### Code used to create the analyses.
 
