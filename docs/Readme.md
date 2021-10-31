@@ -85,23 +85,6 @@ In this project, subsets by `data_channel_is_*` were produced for automating Mar
 [__rmarkdown__](https://www.rdocumentation.org/packages/rmarkdown/versions/1.7) convert R Markdown documents into a variety of formats  
 [__doParallel__](https://cran.r-project.org/web/packages/doParallel/index.html) Foreach Parallel Adaptor for the 'parallel' Package  
 
-```{r packages}
-library(dplyr)
-library(tidyr)
-library(ggcorrplot)
-library(vcd)
-library(caret)
-library(class)
-library(randomForest)
-library(gbm)
-library(readr)
-library(leaps)
-library(Matrix)
-library(glmnet)
-library(rmarkdown)
-library(doParallel)
-```
-
 ### Links to the generated analyses.  
 
 The analysis for [Lifestyle articles is available here](https://ckatony.github.io/ST558-Project-2/data_channel_is_lifestyle.html).  
